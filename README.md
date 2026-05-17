@@ -1,5 +1,6 @@
 <div align="center">
-
+<br>
+  Hii! I'm Swathi Paramesh
 <br/>
 
 ![Bengaluru](https://img.shields.io/badge/📍_Bengaluru,_India-222?style=flat-square)
@@ -11,13 +12,9 @@
 
 ## 🌐 About Me
 
-Network Engineer with **5+ years** of experience in enterprise and hybrid infrastructure. I design, deploy, and troubleshoot complex networks — and increasingly, automate them.
+Network Engineer with 5+ years of experience in enterprise and hybrid infrastructure, specializing in SD-WAN, routing & switching, network migrations, and automation. I work with technologies like Cisco Catalyst SD-WAN, Meraki, Cisco 9K series, and network monitoring platforms to build reliable and scalable networks.
 
-- 🔧 Specializing in **SD-WAN**, Routing & Switching, and Network Migrations
-- 🤖 Automating network tasks with **Python**
-- ☁️ Exploring **Cloud Networking**, **Network Security**, and deeper automation
-- 🏢 Working with Cisco Catalyst SD-WAN, Meraki, Cisco 9K Series, DNAC
-- 📍 Bengaluru, India
+I enjoy solving complex network problems, automating repetitive tasks with Python,CAC and Hive, and continuously learning about cloud and infrastructure technologies. Currently exploring deeper into network automation, and cloud networking.
 
 ---
 
