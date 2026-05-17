@@ -1,8 +1,5 @@
 <div align="center">
-
-<h1 style="color:#00D4FF; font-family: 'Outfit', sans-serif;">Swathi Paramesh</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Swathi+Paramesh+%F0%9F%91%8B;Network+Engineer+%7C+5%2B+Years+Experience;SD-WAN+%7C+Routing+%26+Switching+%7C+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Swathi+Paramesh+%F0%9F%91%8B;Network+Engineer+%7C+5%2B+Years+Experience;SD-WAN+%7C+Routing+%26+Switching+%7C+Automation" alt="Typing SVG" />
 <br/>
 
 ![Bengaluru](https://img.shields.io/badge/📍_Bengaluru,_India-222?style=flat-square)
