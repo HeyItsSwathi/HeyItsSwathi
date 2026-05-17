@@ -1,6 +1,6 @@
 <div align="center">
 
-#Hi, I'm Swathi Paramesh
+# Hi, I'm Swathi Paramesh
 
 ### L2 Network Engineer · Enterprise and Hybrid Infrastructure  · Network automation
 
@@ -12,7 +12,7 @@
 
 About Me
 
--  Network Engineer with 5+ years of experience in enterprise and hybrid infrastructure, specializing in SD-WAN, routing & switching, network migrations, and automation. I work with technologies like Cisco Catalyst SD-WAN, Meraki, Cisco 9K series, and network monitoring platforms to build reliable and scalable networks.
+Network Engineer with 5+ years of experience in enterprise and hybrid infrastructure, specializing in SD-WAN, routing & switching, network migrations, and automation. I work with technologies like Cisco Catalyst SD-WAN, Meraki, Cisco 9K series, and network monitoring platforms to build reliable and scalable networks.
 
 I enjoy solving complex network problems, automating repetitive tasks with Python,CAC and Hive, and continuously learning about cloud and infrastructure technologies. Currently exploring deeper into netowrk automation, and cloud networking.
 - **Bengaluru, India**
