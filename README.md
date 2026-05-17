@@ -1,6 +1,9 @@
 <div align="center">
-<br>
-  Hii! I'm Swathi Paramesh
+
+#  Hi, I'm Swathi Paramesh
+
+### L2 Network Engineer · Enterprise and Hybrid Infrastructure  · Network Automation
+
 <br/>
 
 ![Bengaluru](https://img.shields.io/badge/📍_Bengaluru,_India-222?style=flat-square)
