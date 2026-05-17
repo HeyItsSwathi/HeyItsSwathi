@@ -1,11 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Swathi Paramesh
+#Hi, I'm Swathi Paramesh
 
-### Network Engineer · SD-WAN Specialist · Automation Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swathiparamesh)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/swathi__paramesh?igsh=MXFjYnd5OXpidWdueQ==)
+### L2 Network Engineer · Enterprise and Hybrid Infrastructure  · Network automation
 
 </div>
 
@@ -15,68 +12,60 @@
 
 About Me
 
-- 🌐 **5+ years** in enterprise & hybrid network infrastructure
-- 🔧 Specializing in **SD-WAN**, routing & switching, network migrations
-- 🐍 Writing **Python automation** to eliminate repetitive network ops
-- ☁️ Expanding into **cloud networking** and **network security**
-- 🏢 Working with Cisco Catalyst SD-WAN, Meraki, Cisco 9K, DNAC
-- 📍 **Bengaluru, India**
-- 💬 Ask me about **SD-WAN**, **BGP/OSPF**, or **network automation**
+-  Network Engineer with 5+ years of experience in enterprise and hybrid infrastructure, specializing in SD-WAN, routing & switching, network migrations, and automation. I work with technologies like Cisco Catalyst SD-WAN, Meraki, Cisco 9K series, and network monitoring platforms to build reliable and scalable networks.
+
+I enjoy solving complex network problems, automating repetitive tasks with Python,CAC and Hive, and continuously learning about cloud and infrastructure technologies. Currently exploring deeper into netowrk automation, and cloud networking.
+- **Bengaluru, India**
 
 ---
 
-🧰 Tech Stack
+## 🛠️ Tech Stack
 
-### 🔴 Networking — The Core
+**SD-WAN**
 
-![Cisco SD-WAN]
-![BGP]
-![OSPF]
-![VLAN]
-![Meraki]
-![Cisco 9K]
+![Cisco Catalyst SD-WAN](https://img.shields.io/badge/Cisco_Catalyst_SD--WAN-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![vManage](https://img.shields.io/badge/vManage-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![ZTP](https://img.shields.io/badge/Zero--Touch_Provisioning-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-### 🟡 Automation & Cloud — Growing Fast
+**Routing & Switching**
 
-![Python]
-![Azure]
+![BGP](https://img.shields.io/badge/BGP-CC2936?style=for-the-badge)
+![OSPF](https://img.shields.io/badge/OSPF-CC2936?style=for-the-badge)
+![VLAN](https://img.shields.io/badge/VLAN-CC2936?style=for-the-badge)
+![STP](https://img.shields.io/badge/STP_L2%2FL3-CC2936?style=for-the-badge)
 
-### 🟢 Monitoring & Operations — Day-to-Day
+**Cisco Platforms**
 
-![DNAC]
-![SolarWinds]
-![Infoblox]
-![ServiceNow]
+![Cisco 9K](https://img.shields.io/badge/Cisco_Catalyst_9K-0055A5?style=for-the-badge&logo=cisco&logoColor=white)
+![Meraki MS/MR](https://img.shields.io/badge/Meraki_MS%2FMR-67B346?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco WLC](https://img.shields.io/badge/Cisco_WLC-0055A5?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco PnP](https://img.shields.io/badge/Cisco_PnP-0055A5?style=for-the-badge&logo=cisco&logoColor=white)
+
+**Monitoring & Management**
+
+![DNAC](https://img.shields.io/badge/Catalyst_Center_(DNAC)-F5A623?style=for-the-badge)
+![SolarWinds](https://img.shields.io/badge/SolarWinds-F5A623?style=for-the-badge)
+![Infoblox](https://img.shields.io/badge/Infoblox_DNS%2FIPAM-F5A623?style=for-the-badge)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
+
+**Automation & Cloud**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure_AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+![CCNA](https://img.shields.io/badge/CCNA-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![AZ-900](https://img.shields.io/badge/AZ--900-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
-## 🏅 Certifications
+## 🔗 Connect With Me
 
-<div align="center">
-
-| ![Cisco](https://img.shields.io/badge/CCNA-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) | ![Azure](https://img.shields.io/badge/AZ--900-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) |
-|:---:|:---:|
-| Cisco Certified Network Associate | Azure Fundamentals |
-
-</div>
-
----
-
-## 📂 Pinned Repositories
-
-> Here's what I'm building and documenting:
-
-🔧 **[network-automation](./network-automation)** — Python scripts for Cisco config backup, interface polling, and alerts
-
-🌐 **[sdwan-labs](./sdwan-labs)** — SD-WAN topologies, vManage templates, ZTP configurations
-
-🔀 **[routing-switching-labs](./routing-switching-labs)** — OSPF/BGP scenarios, L2/L3 VLAN labs
-
-📝 **[troubleshooting-runbooks](./troubleshooting-runbooks)** — Real-world incident logs, SOPs, and fix docs
-
-☁️ **[cloud-network-experiments](./cloud-network-experiments)** — Azure networking, hybrid connectivity, security
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swathiparamesh)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/swathi__paramesh?igsh=MXFjYnd5OXpidWdueQ==)
 
 <div align="center">
 
