@@ -15,6 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swathiparamesh)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swathiparam27@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HeyItsSwathi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/swathi__paramesh?igsh=MXFjYnd5OXpidWdueQ==)
 
 </div>
 
@@ -55,7 +56,6 @@
 ![Python](https://img.shields.io/badge/Python-FF6B9D?style=for-the-badge&logo=python&logoColor=white)
 ![Netmiko](https://img.shields.io/badge/Netmiko-FF8FAB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF9EC0?style=for-the-badge&logo=git&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible_(learning)-FFB7C5?style=for-the-badge&logo=ansible&logoColor=white)
 
 <br/>
 
@@ -82,6 +82,6 @@
 
 <div align="center">
 
-### 🌸 Thanks for visiting! 🌸
+### 🌸 Networks don't fail — they just misbehave. 🌸
 
 </div>
