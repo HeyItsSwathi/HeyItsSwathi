@@ -76,7 +76,6 @@
 - 🎯 Studying for **CCNP Enterprise (ENCOR 350-401)**
 - 🐍 Deepening **Python network automation**
 - 🌏 Exploring **global network roles** — open to relocation
-- ☁️ Next up: cloud networking
 
 <br/>
 
